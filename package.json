@@ -1,0 +1,24 @@
+{
+  "name": "FlexiColorPicker",
+  "version": "1.0.0",
+  "description": "Demo & discussion (forked from: https://github.com/DavidDurman/FlexiColorPicker)",
+  "main": "colorpicker.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajzarpa/FlexiColorPicker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bajzarpa/FlexiColorPicker/issues"
+  },
+  "homepage": "https://github.com/bajzarpa/FlexiColorPicker#readme"
+}
